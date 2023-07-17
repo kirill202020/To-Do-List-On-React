@@ -1,0 +1,27 @@
+.todoForm {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	gap: 10px;
+	margin-top: 10px;
+}
+
+.input {
+	width: 400px;
+	font-size: 18px;
+	padding: 10px 15px;
+	border-radius: 5px;
+	border: none;
+}
+
+.formBtn {
+	text-transform: uppercase;
+	background: #1d4c7a;
+	color: #fff;
+	font-size: 18;
+	padding: 14px 25px;
+	border-radius: 24px;
+	border: none;
+	cursor: pointer;
+}
